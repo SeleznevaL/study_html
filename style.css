@@ -1,0 +1,21 @@
+body {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+menu ul {
+    list-style: none;
+    
+}
+
+menu ul li {
+    display: inline-block;
+}
+
+
+
